@@ -4,7 +4,11 @@
 <img width="360" height="640" src="https://github.com/rykfield/MOD04-Avengers-Tower/raw/master/Render_MOD04_01.jpg">
 <BR>
 
-blurb
+The Avengers Tower GBC marries a minimally-modified 76038 Attack on Avengers Tower set from 2015 with the Brickworld 2018 Ball Pump.
+<P>
+The tower structure has been "hollowed out" to allow for the ball pump tube to rise through the front half of the set, while the rear hinged-section of the set has been reversed to swing open from the opposite side, to be viewable when open, from the front of a GBC display.
+<p>
+The ball pump input has been lengthened slightly to provide more space for ball entry when the tower sections are closed.
 
 <P>Instructions: https://github.com/rykfield/MOD04-Avengers-Tower/raw/master/MOD04%20-%20Avengers%20Tower.pdf
 
