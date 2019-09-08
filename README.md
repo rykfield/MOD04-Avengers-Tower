@@ -10,6 +10,8 @@ The tower structure has been "hollowed out" to allow for the ball pump tube to r
 <p>
 The ball pump input has been lengthened slightly to provide more space for ball entry when the tower sections are closed.
 
+<P>Video: https://www.youtube.com/watch?v=HkDeWzKjluA
+
 <P>Instructions: https://github.com/rykfield/MOD04-Avengers-Tower/raw/master/MOD04%20-%20Avengers%20Tower.pdf
 
 <P>Parts List: https://raw.githubusercontent.com/rykfield/MOD04-Avengers-Tower/94e236b2db3709463eba957115799f186991794f/MOD04%20-%20Avengers%20Tower.xml
